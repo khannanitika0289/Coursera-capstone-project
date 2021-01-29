@@ -1,0 +1,12 @@
+This analysis is comprising of zomato data set for different localities of New Delhi i.e. capital of India.
+There has been different data scources used like Zomato kaggel dataset : "https://www.kaggle.com/shrutimehta/zomato-restaurants-data" and Fousquare API : "https://developer.foursquare.com/".
+The aim of this project is to know about the various kind of cuisines served in different parts of capital. This analysis may also give insight for poorly and highly rated rated restaurants.
+A part of neighbourhood and clustering application is one of the objective of this analysis.
+Based on which a bried conclusion has been found in below mentioned points.
+ Some of the best neighborhoods for Chinese cuisine in New Delhi are Chanakyapuri, Pitampura, Safdarjung.
+ Best places for edible persons in New Delhi are Cannaught place, Rajouri garden, Malviya nagar.
+ Greater kailash, Feroze shah road, Saket have best resturants in New Delhi.
+ Cluster 1: Most recommended for Indian Restaurants.
+ Cluster 2: Most recommended for Hotels and nightclub.
+ Cluster 3 and Cluster 5: Most recommended for Fast food.
+ Cluster 4: Most recommended for the cafe and pizza.
